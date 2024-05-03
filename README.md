@@ -28,3 +28,5 @@ The IP Locator is a console application written in C# that allows users to input
 # The owner doesn't take any responsibility
 
 ### If you are aware of virus you can check it through dnSpy : https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8
+
+## This tool might not be correct, it only counts the ip not the router.
