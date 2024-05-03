@@ -26,3 +26,5 @@ The IP Locator is a console application written in C# that allows users to input
 # Made with C# 12 .NET 8.0
 
 # The owner doesn't take any responsibility
+
+# If you are aware of virus you can check it through dnSpy : https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8
