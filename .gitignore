@@ -1,0 +1,95 @@
+# Binaries
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Resharper files
+_ReSharper*/
+
+# NuGet packages
+packages/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio code files
+.vscode/
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Roslyn cache directories
+*.ide/
+
+# Compiled C# files
+*.dll
+*.exe
+
+# Backup files
+*.bak
+*.backup
+*.dbmdl
+
+# Local database file
+*.mdf
+
+# Click-Once directory
+publish/
+
+# SQL Server files
+*.log
+*.sqlproj.user
+
+# LightSwitch generated files
+GeneratedArtifacts/
+_Pvt_Extensions/
+
+# Internet Explorer files
+*.manifest
+*.deploy
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2015/2017/2019 cache/options directory
+.vscode/
+.vscode
+.vs/
