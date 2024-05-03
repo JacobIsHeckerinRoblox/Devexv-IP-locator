@@ -29,8 +29,6 @@ The IP Locator is a console application written in C# that allows users to input
 
 ### If you are aware of virus you can check it through dnSpy : https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8
 
-## This tool might not be correct, it only counts the ip not the router.
-
 [![NuGet version (Newtonsoft.Json)](https://img.shields.io/nuget/v/Newtonsoft.Json.svg?style=flat-square)](https://www.nuget.org/packages/Newtonsoft.Json/)
 [![Build status](https://dev.azure.com/jamesnk/Public/_apis/build/status/JamesNK.Newtonsoft.Json?branchName=master)](https://dev.azure.com/jamesnk/Public/_build/latest?definitionId=8)
 
@@ -100,3 +98,5 @@ string json = o.ToString();
 - [Contributing Guidelines](https://github.com/JamesNK/Newtonsoft.Json/blob/master/CONTRIBUTING.md)
 - [License](https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/json.net)
+
+## This tool might not be correct, it only counts the ip not the router.
